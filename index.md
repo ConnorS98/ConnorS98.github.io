@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/Fika-and-Lagom/fika-and-lagom.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will see everything I'm working on, as well as my social media profiles and how to contact me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://github.com/ConnorS98/ConnorS98.github.io/blob/master/images/Images/Github.png">
+
 
 ### Markdown
 
