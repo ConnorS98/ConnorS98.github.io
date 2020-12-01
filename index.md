@@ -3,7 +3,6 @@
 Here you will see everything I'm working on, as well as my social media profiles and how to contact me.
 
 <img src="https://github.com/ConnorS98/ConnorS98.github.io/blob/master/images/Images/github.png">
-">
 
 
 ### Markdown
